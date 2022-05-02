@@ -1,3 +1,8 @@
+transcripts
+model
+venv
+interview_audio
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
